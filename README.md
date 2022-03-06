@@ -1,16 +1,28 @@
-### Hi there 👋
+<h4 align="center">
+ 
+![c633c20ede82f0e0ced7d570dbe3a1f3](https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif)
 
-<!--
-**devLucasCano/devlucascano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">  <br>
 
-Here are some ideas to get you started:
+Olá, eu sou o Lucas Cano! 🇧🇷
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</h3>
+
+```
+Sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
+```
+ 
+- Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências.
+
+## Meus dados no Github
+
+<!-- <span style="height ">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlucascano&show_icons=true&theme=tokyonight)
+</span> -->
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlucascano&show_icons=true&theme=tokyonight)
+[![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=devlucascano&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/arthurspk/)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlucascano&layout=compact&theme=tokyonight) -->
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+
