@@ -22,7 +22,7 @@ Sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 </span> -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=devlucascano&show_icons=true&theme=tokyonight)
-[![arthurspk](https://github-readme-stats.vercel.app/api/top-langs/?username=devlucascano&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/arthurspk/)
+[![devlucascano](https://github-readme-stats.vercel.app/api/top-langs/?username=devlucascano&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/arthurspk/)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devlucascano&layout=compact&theme=tokyonight) -->
 ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
 
