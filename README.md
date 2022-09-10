@@ -10,10 +10,27 @@ Olá, eu sou o Lucas Cano! 🇧🇷
 </h3>
 
 ```
-Sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
+Estudante de Engenharia de software pela Unicesumar - Universidade Cesumar, 
+sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
 ```
- 
-- Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências.
+## Tecnologias que estou estudando atualmente 💻
+
+  - JavaScript
+  - TypeScript
+  - Node.js
+  - Dart
+  - AWS Serveless
+  - Amazon DynamoDB
+  - GraphQL
+  - React
+  - Python
+  - MongoDB
+  - MySQL
+
+## Alguns fatos sobre mim 👨🏻‍💻
+
+- Adoro conhecer coisas novas, trabalhar em grupo e obter novas experiências, almejo trabalhar fora do Brasil, para melhorar meu Inglês e conhecer novas culturas, pessoas e ter novas experiências. 😄
+- Estou cursando Engenharia de Software. 💻
 
 ## Meus dados no Github
 
