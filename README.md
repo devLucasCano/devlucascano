@@ -15,17 +15,15 @@ sou fascinado por computação desde criança e atualmente tenho me dedicado a m
 ```
 ## Tecnologias que estou estudando atualmente 💻
 
+  - HTML
+  - CSS
   - JavaScript
   - TypeScript
   - Node.js
-  - Dart
-  - AWS Serveless
-  - Amazon DynamoDB
-  - GraphQL
   - React
-  - Python
-  - MongoDB
-  - MySQL
+  - Bootstrap
+  - Sass
+  - Mysql
 
 ## Alguns fatos sobre mim 👨🏻‍💻
 
