@@ -5,7 +5,7 @@
 Estudante de Engenharia de software pela Unicesumar - Universidade Cesumar, sou fascinado por computação desde criança e atualmente tenho me dedicado a me tornar um dev fullstack.
 
 - 🌍 Estou em Maringá - Paraná, Brasil
-- ✉️ Você pode entrar em contato em [lucascano.contato@gmail.com](mailto:lucascano.contato@gmail.com)
+- ✉️ Você pode entrar em contato em [lucascano.contato@gmail.com](mailto:lucascano.contato@gmail.com) 
 - 🧠 Estou aprendendo Javascript Avançado, Rust e linguagem de programação C
 - 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
 - ⚡ Adoro aprender coisas novas e estar sempre evoluindo
