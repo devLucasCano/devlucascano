@@ -6,7 +6,7 @@ Estudante de Engenharia de software pela Unicesumar - Universidade Cesumar, sou 
 
 - 🌍 Estou em Maringá - Paraná, Brasil
 - ✉️ Você pode entrar em contato em [lucascano.contato@gmail.com](mailto:lucascano.contato@gmail.com) 
-- 🧠 Estou aprendendo PHP e Laravel
+- 🧠 Estou aprendendo Javascript avançado, Rust e linguagem de programação C
 - 🤝 Estou aberto a colaborar em projetos de alto impacto na vida das pessoas
 - ⚡ Adoro aprender coisas novas e estar sempre evoluindo
 
